@@ -1,4 +1,4 @@
-## React starter project, with D3
+## React project, with D3
 
 This project is the Repl.it React starter project, with a D3 chart included on the page. 
 
